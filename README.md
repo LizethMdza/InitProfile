@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LizethMdza
+- 👋 Hi, I’m @Lizeth Trejo
 - 👀 I’m interested in ... 💻🖥️
 - 🌱 I’m currently learning ... Programming
 - 💞️ I’m looking to collaborate on angular projects
